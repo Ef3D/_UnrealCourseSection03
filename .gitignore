@@ -1,0 +1,14 @@
+### Unreal Temporary Files ###
+
+*/Build
+*/Binaries
+*/DeriverDataCache
+*/Intermediate
+*/Saved
+
+
+###VisualStudio Files###
+
+
+Content/StarterContent/
+*.VC.db
